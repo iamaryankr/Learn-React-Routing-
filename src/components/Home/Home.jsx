@@ -36,11 +36,6 @@ function Home(){
                 </div>
             </aside>
 
-            <div className="grid  place-items-center sm:mt-20">
-                <img className="sm:w-96 w-48" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.gforgames.com%2Fwp-content%2Fuploads%2F2020%2F08%2FIT-sector.jpg&f=1&nofb=1&ipt=e7750e97634d56d35fcf412ca155d78819457132fadb7beb7b43d60167715631&ipo=images" alt="image2" />
-            </div>
-
-            <h1 className="text-center text-2xl sm:text-5xl py-10 font-medium">Lorem Ipsum </h1>
         </div>
     );
 }
